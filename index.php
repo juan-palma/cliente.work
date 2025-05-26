@@ -37,10 +37,11 @@ foreach ($mis_sitios as $url) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mis Proyectos Web</title>
+    <title>Portafolio de Proyecto Realizados</title>
     <style>
+		@import url('https://fonts.googleapis.com/css2?family=Sen:wght@400;700;800&display=swap');
         body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            font-family: 'Sen', Roboto, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
             background-color: #f0f2f5;
             margin: 0;
             padding: 20px;
@@ -102,7 +103,13 @@ foreach ($mis_sitios as $url) {
     </style>
 </head>
 <body>
-    <h1>Mis Proyectos Web</h1>
+    <h1>Portafolio de Proyecto Realizados</h1>
+	<p>
+		Te encuentras en nuestro portafolio o galería de proyectos que hemos realizado, aquí encontraras sitios de clientes, agencias hermanas con quienes colaboramos para apoyarlas al realizar sus proyectos he incluso nuestros propios sitios corporativos.
+	</p>
+	<p>
+		Savemos que disfrutaras de cada uno de nuestros sitios y esperemos poder trabajar juntos si te sientes convencido y contento con lo que hacemos y como lo hacemos 😀
+	</p>
     
     <div class="portfolio">
         <?php foreach ($previews as $meta): ?>
