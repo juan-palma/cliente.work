@@ -113,6 +113,9 @@ foreach ($mis_sitios as $url) {
 	<p class="intro">
 		Savemos que disfrutaras de cada uno de nuestros sitios y esperemos poder trabajar juntos si te sientes convencido y contento con lo que hacemos y como lo hacemos 😀
 	</p>
+	<p class="intro">
+		Si deseas cotizar el desarrollo de algun sitio, mejora o herramienta, contacta al agente o contacto que te brindo este enlace para obtener más informes.
+	</p>
     
     <div class="portfolio">
         <?php foreach ($previews as $meta): ?>
