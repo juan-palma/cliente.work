@@ -3,8 +3,19 @@ require 'src/MetaPreview.php';
 
 // Configuración - Solo edita este array
 $mis_sitios = [
+	'https://ahorcado.idalibre.com',
+	'https://therocket.cliente.work',
     'https://sca.cliente.work',
-    'https://example.com',
+	'https://juan-palma.idalibre.com',
+    'https://toner.cliente.work',
+	'https://amatista-envases.com/',
+	'https://tocho.cliente.work',
+	'https://inmotion.cliente.work',
+	'https://ciasa.cliente.work',
+	'https://canadaviajes.cliente.work/toronto',
+	'https://canadaviajes.cliente.work/quebec',
+	'https://solael.mx',
+	'https://tp-abogados.com',
     // Añade más URLs aquí
 ];
 
