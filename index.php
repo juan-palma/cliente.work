@@ -37,7 +37,7 @@ foreach ($mis_sitios as $url) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portafolio de Proyecto Realizados</title>
+    <title>Portafolio de Proyectos Realizados</title>
     <style>
 		@import url('https://fonts.googleapis.com/css2?family=Sen:wght@400;700;800&display=swap');
         body {
@@ -100,14 +100,17 @@ foreach ($mis_sitios as $url) {
                 grid-template-columns: 1fr;
             }
         }
+		.intro {
+			padding: 10px 16vwpx;
+		}
     </style>
 </head>
 <body>
-    <h1>Portafolio de Proyecto Realizados</h1>
-	<p>
+    <h1>Portafolio de Proyectos Realizados</h1>
+	<p class="intro">
 		Te encuentras en nuestro portafolio o galería de proyectos que hemos realizado, aquí encontraras sitios de clientes, agencias hermanas con quienes colaboramos para apoyarlas al realizar sus proyectos he incluso nuestros propios sitios corporativos.
 	</p>
-	<p>
+	<p class="intro">
 		Savemos que disfrutaras de cada uno de nuestros sitios y esperemos poder trabajar juntos si te sientes convencido y contento con lo que hacemos y como lo hacemos 😀
 	</p>
     
