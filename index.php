@@ -11,7 +11,7 @@ $mis_sitios = [
 	'https://juan-palma.idalibre.com',
     'https://toner.cliente.work',
 	'https://amatista-envases.com/',
-	'https://https://yariel.site/',
+	'https://yariel.site/',
 	'https://tocho.cliente.work',
 	'https://1975studio.com',
 	'https://inmotion.cliente.work',
