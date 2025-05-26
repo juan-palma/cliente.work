@@ -6,17 +6,20 @@ $mis_sitios = [
 	'https://ventomaquia.com',
 	'https://ahorcado.idalibre.com',
 	'https://therocket.cliente.work',
+	'https://obscuroplacer.com',
     'https://sca.cliente.work',
 	'https://juan-palma.idalibre.com',
     'https://toner.cliente.work',
 	'https://amatista-envases.com/',
+	'https://https://yariel.site/',
 	'https://tocho.cliente.work',
+	'https://1975studio.com',
 	'https://inmotion.cliente.work',
 	'https://ciasa.cliente.work',
 	'https://canadaviajes.cliente.work/toronto',
 	'https://canadaviajes.cliente.work/quebec',
 	'https://solael.mx',
-	'https://tp-abogados.com',
+	'https://tp-abogados.com'
     // Añade más URLs aquí
 ];
 
