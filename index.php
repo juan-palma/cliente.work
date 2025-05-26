@@ -101,7 +101,7 @@ foreach ($mis_sitios as $url) {
             }
         }
 		.intro {
-			padding: 10px 16vwpx;
+			padding: 10px 16vw;
 		}
     </style>
 </head>
