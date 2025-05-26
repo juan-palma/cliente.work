@@ -18,6 +18,7 @@ $mis_sitios = [
 	'https://ciasa.cliente.work',
 	'https://canadaviajes.cliente.work/toronto',
 	'https://canadaviajes.cliente.work/quebec',
+	'https://canadaviajes.cliente.work/ontario',
 	'https://solael.mx',
 	'https://tp-abogados.com'
     // Añade más URLs aquí
