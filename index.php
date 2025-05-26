@@ -3,6 +3,7 @@ require 'src/MetaPreview.php';
 
 // Configuración - Solo edita este array
 $mis_sitios = [
+	'https://ventomaquia.com',
 	'https://ahorcado.idalibre.com',
 	'https://therocket.cliente.work',
     'https://sca.cliente.work',
