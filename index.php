@@ -37,7 +37,10 @@ foreach ($mis_sitios as $url) {
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, user-scalable=yes, minimum-scale=1.0, maximum-scale=3.0, initial-scale=1.0, viewport-fit=cover" />
+    <meta http-equiv="Content-Encoding" content="gzip" />
+    <meta http-equiv="Accept-Encoding" content="gzip, deflate" />
+    
     <title>Portafolio de Proyectos Realizados</title>
 	<meta name="description" content="Estas en nuestro portafolio de proyectos que hemos realizado para clientes, agencias y nuestros corporativos"></meta>
 
