@@ -129,13 +129,13 @@ foreach ($mis_sitios as $url) {
 <body>
     <h1>Portafolio de Proyectos Realizados</h1>
 	<p class="intro">
-		Te encuentras en nuestro portafolio de proyectos que hemos realizado, aquí encontraras desarrollos web hechos para clientes, agencias a quienes apoyamos a realizar sus proyectos he incluso nuestros propios sitios corporativos.
+		Te encuentras en nuestro portafolio de proyectos, aquí encontraras desarrollos web hechos para clientes, agencias con quien colaboramos he incluso nuestros sitios corporativos.
 	</p>
 	<p class="intro">
-		Sabemos que disfrutarás de cada uno de nuestros sitios y esperemos poder trabajar juntos si te sientes convencido y contento con lo que hacemos y como lo hacemos 😀
+		Sabemos que disfrutarás de cada uno de nuestros sitios esperando poder trabajar juntos, claro... si te sientes convencido y contento con lo que hacemos y como lo hacemos 😀
 	</p>
 	<p class="intro">
-		Si deseas cotizar el desarrollo de algun sitio, mejora o herramienta, contacta al agente o contacto que te brindo este enlace para obtener más informes, si llegaste desde un anuncio, adjunto a este encontraras información de contacto.
+		Si deseas cotizar el desarrollo de algun sitio, mejora o herramienta, contacta con la persona que te brindo este enlace, si llegaste desde un anuncio, en el mismo encontraras información de contactos.
 	</p>
     
     <div class="portfolio">
