@@ -112,14 +112,18 @@ foreach ($mis_sitios as $url) {
             color: #606770;
             line-height: 1.4;
         }
-        @media (max-width: 600px) {
-            .portfolio {
-                grid-template-columns: 1fr;
-            }
-        }
-		.intro {
+        .intro {
 			padding: 10px 16vw;
 		}
+        @media (max-width: 600px) {
+            .portfolio {
+                grid-template-columns: 2fr;
+            }
+            .intro {
+                padding: 10px 8vw;
+            }
+        }
+		
     </style>
 </head>
 <body>
