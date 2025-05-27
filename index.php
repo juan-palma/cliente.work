@@ -8,13 +8,13 @@ $mis_sitios = [
 	'https://obscuroplacer.com',
     'https://sca.cliente.work',
 	'https://juan-palma.idalibre.com',
+     'https://ahorcado.idalibre.com',
     'https://toner.cliente.work',
 	'https://amatista-envases.com/',
 	'https://yariel.site/',
 	'https://tocho.cliente.work',
 	'https://1975studio.com',
 	'https://inmotion.cliente.work',
-    'https://ahorcado.idalibre.com',
 	'https://ciasa.cliente.work',
 	'https://canadaviajes.cliente.work/toronto',
 	'https://canadaviajes.cliente.work/quebec',
@@ -40,7 +40,7 @@ foreach ($mis_sitios as $url) {
     <meta name="viewport" content="width=device-width, user-scalable=yes, minimum-scale=1.0, maximum-scale=3.0, initial-scale=1.0, viewport-fit=cover" />
     <meta http-equiv="Content-Encoding" content="gzip" />
     <meta http-equiv="Accept-Encoding" content="gzip, deflate" />
-    
+
     <title>Portafolio de Proyectos Realizados</title>
 	<meta name="description" content="Estas en nuestro portafolio de proyectos que hemos realizado para clientes, agencias y nuestros corporativos"></meta>
 
