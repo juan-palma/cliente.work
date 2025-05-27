@@ -4,7 +4,6 @@ require 'src/MetaPreview.php';
 // Configuración - Solo edita este array
 $mis_sitios = [
 	'https://ventomaquia.com',
-	'https://ahorcado.idalibre.com',
 	'https://therocket.cliente.work',
 	'https://obscuroplacer.com',
     'https://sca.cliente.work',
@@ -15,6 +14,7 @@ $mis_sitios = [
 	'https://tocho.cliente.work',
 	'https://1975studio.com',
 	'https://inmotion.cliente.work',
+    'https://ahorcado.idalibre.com',
 	'https://ciasa.cliente.work',
 	'https://canadaviajes.cliente.work/toronto',
 	'https://canadaviajes.cliente.work/quebec',
@@ -39,6 +39,19 @@ foreach ($mis_sitios as $url) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portafolio de Proyectos Realizados</title>
+	<meta name="description" content="Estas en nuestro portafolio de proyectos que hemos realizado para clientes, agencias y nuestros corporativos"></meta>
+
+    <meta property="og:type" content="WEBSITE" />
+    <meta property="og:url" content="https://cliente.work" />
+    <meta property="og:site_name" content="SCA | especialistas en gestión ambiental empresarial" />
+    <!-- <meta property="fb:app_id" content="ID-FACEBOOK-APP" /> -->
+            
+    <meta property="og:title" content="Portafolio de Proyectos Realizados" />
+    <meta property="og:description" content="Estas en nuestro portafolio de proyectos que hemos realizado para clientes, agencias y nuestros corporativos" />
+    <meta property="og:image" content="https://cliente.work/assets/img/facebook_web_img_article.jpg" />
+    <meta property="og:image:alt" content="Portada del sitio web" />
+    <meta property="og:image:type" content="image/jpeg" />
+
     <style>
 		@import url('https://fonts.googleapis.com/css2?family=Sen:wght@400;700;800&display=swap');
         body {
@@ -109,13 +122,13 @@ foreach ($mis_sitios as $url) {
 <body>
     <h1>Portafolio de Proyectos Realizados</h1>
 	<p class="intro">
-		Te encuentras en nuestro portafolio o galería de proyectos que hemos realizado, aquí encontraras sitios de clientes, agencias hermanas con quienes colaboramos para apoyarlas al realizar sus proyectos he incluso nuestros propios sitios corporativos.
+		Te encuentras en nuestro portafolio de proyectos que hemos realizado, aquí encontraras desarrollos web hechos para clientes, agencias a quienes apoyamos a realizar sus proyectos he incluso nuestros propios sitios corporativos.
 	</p>
 	<p class="intro">
-		Savemos que disfrutaras de cada uno de nuestros sitios y esperemos poder trabajar juntos si te sientes convencido y contento con lo que hacemos y como lo hacemos 😀
+		Sabemos que disfrutarás de cada uno de nuestros sitios y esperemos poder trabajar juntos si te sientes convencido y contento con lo que hacemos y como lo hacemos 😀
 	</p>
 	<p class="intro">
-		Si deseas cotizar el desarrollo de algun sitio, mejora o herramienta, contacta al agente o contacto que te brindo este enlace para obtener más informes.
+		Si deseas cotizar el desarrollo de algun sitio, mejora o herramienta, contacta al agente o contacto que te brindo este enlace para obtener más informes, si llegaste desde un anuncio, adjunto a este encontraras información de contacto.
 	</p>
     
     <div class="portfolio">
