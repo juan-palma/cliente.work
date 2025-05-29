@@ -41,6 +41,8 @@ foreach ($mis_sitios as $url) {
     <meta http-equiv="Content-Encoding" content="gzip" />
     <meta http-equiv="Accept-Encoding" content="gzip, deflate" />
 
+    <meta name="facebook-domain-verification" content="v6kip5x88ivvhkw8x4unpx09k7m1lh" />
+
     <!-- Google Tag Manager -->
         <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
         new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -140,7 +142,7 @@ foreach ($mis_sitios as $url) {
         height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
-    
+
     <h1>Portafolio de Proyectos Realizados</h1>
 	<p class="intro">
 		Te encuentras en nuestro portafolio de proyectos, aquí encontraras desarrollos web hechos para clientes, agencias con quien colaboramos he incluso nuestros sitios corporativos.
