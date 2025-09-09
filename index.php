@@ -220,7 +220,7 @@ $sites = [
                     .then(res => res.json())
                     .then(data => {
                         if (data.error !== false) {
-                            card.innerHTML = `<span style="color:red">Error al cargar ${url}</span>`;
+                            card.innerHTML.classList.add("desaparecer");
                             return;
                         }
                         card.innerHTML = `
