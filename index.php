@@ -84,6 +84,9 @@ $sites = [
             text-align: center;
             color: #1d2129;
         }
+        a{
+            text-decoration: none;
+        }
 
         .portfolio {
             display: grid;
@@ -120,6 +123,12 @@ $sites = [
                 height: 250px;
                 object-fit: cover;
                 border-bottom: 1px solid #eee;
+            }
+            .imagenNull{
+                width: 100%;
+                height: 250px;
+                border-bottom: 1px solid #eee;
+                background-color: #606770;
             }
 
             .card-content {
@@ -220,7 +229,7 @@ $sites = [
                     .then(res => res.json())
                     .then(data => {
                         if (data.error !== false) {
-                            card.innerHTML.classList.add("desaparecer");
+                            card.classList.add("desaparecer");
                             return;
                         }
                         card.innerHTML = `
@@ -229,7 +238,7 @@ $sites = [
                                     alt="${data.title}"
                                     class="card-image"
                                     onerror="this.style.display='none'"
-                                >` : ""}
+                                >` : `<div class="imagenNull"></div>`}
                                 
                                 <div class="card-content">
                                     <div class="card-domain">
