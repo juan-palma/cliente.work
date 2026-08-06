@@ -1,7 +1,9 @@
 <?php
 $sites = [
+    'https://merkanusmedia.com',
     'https://therocket.cliente.work',
     'https://obscuroplacer.com',
+    'https://silental.com',
     'https://sca.cliente.work',
     'https://bysantik.com',
     'https://yariel.site/',
