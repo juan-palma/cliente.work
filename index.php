@@ -1,10 +1,11 @@
 <?php
 $sites = [
+    'https://sitio-cms-demo.cliente.work',
     'https://silental.com',
     'https://aceigro.com',
     'https://merkanusmedia.com',
-    'https://therocket.cliente.work',
     'https://obscuroplacer.com',
+    'https://azultourquetza.com',
     'https://sca.cliente.work',
     'https://bysantik.com',
     'https://yariel.site/',
@@ -16,8 +17,6 @@ $sites = [
     'https://canadaviajes.cliente.work/toronto',
     'https://canadaviajes.cliente.work/ontario',
     'https://tp-abogados.com',
-    'https://inmotion.cliente.work',
-    'https://ciasa.cliente.work',
     'https://toner.cliente.work',
 
     // Añade más URLs aquí
